@@ -9,6 +9,7 @@ SDLC Phase:
    5. Testing
    6. Installation/Deployment
    7. Maintenance
+      
 Phase 1: Requirement collection and analysis
 =The requirement is the first stage in the SDLC process. It is conducted by the senior team members with inputs from all the stakeholders and domain experts in the industry. Planning for the quality assurance requirements and recognization of the risks involved is also done at this stage.
 Phase 2: Feasibility study
