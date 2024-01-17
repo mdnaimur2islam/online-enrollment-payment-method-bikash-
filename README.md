@@ -2,13 +2,13 @@ Here using oftware Development Life Cycle (SDLC) model.
 =SDLC is a systematic process for building software that ensures the quality and correctness of the software built. SDLC process aims to produce high-quality software that meets customer expectations.
 SDLC Phase:
 
-    Phase 1: Requirement collection and analysis
-    Phase 2: Feasibility study
-    Phase 3: Design
-    Phase 4: Coding
-    Phase 5: Testing
-    Phase 6: Installation/Deployment
-    Phase 7: Maintenance
+   1. Requirement collection and analysis.
+   2. Feasibility study.
+   3. Design
+   4. Coding
+   5. Testing
+   6. Installation/Deployment
+   7. Maintenance
 Phase 1: Requirement collection and analysis
 =The requirement is the first stage in the SDLC process. It is conducted by the senior team members with inputs from all the stakeholders and domain experts in the industry. Planning for the quality assurance requirements and recognization of the risks involved is also done at this stage.
 Phase 2: Feasibility study
