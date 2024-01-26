@@ -2,8 +2,8 @@
 ## Submitted By
 - Name: MD. Naimur Islam Nissan
 - Student ID: 2002057
-- level: 3 , Semester: i
-- dept CSE
+- Level: 3 , Semester: I
+- Dept CSE
 ## Submitted To
 - Pankaj Bhowmik
 - Lecturer, Department of CSE, HSTU
