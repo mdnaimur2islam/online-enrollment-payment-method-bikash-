@@ -8,7 +8,7 @@
 - Pankaj Bhowmik
 - Lecturer, Department of CSE, HSTU
 
-## Here using oftware Development Life Cycle (SDLC) model.
+## Here using Software Development Life Cycle (SDLC) model.
 =SDLC is a systematic process for building software that ensures the quality and correctness of the software built. SDLC process aims to produce high-quality software that meets customer expectations.
 SDLC Phase:
 
